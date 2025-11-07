@@ -29,7 +29,7 @@ The package can be installed using `devtools`:
 # Install devtools
 install.packages("devtools")
 
-# Install SuperCellCyto from this repository
+# Install CloneDetective from this repository
 devtools::install_github("phipsonlab/CloneDetective")
 ```
 
