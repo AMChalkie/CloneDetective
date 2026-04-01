@@ -19,7 +19,7 @@ This R package works greatly hand in hand with the
 
 ## Citation
 
-If you use CloneDetective in your study, please kindly cite our preprint on bioRxiv.
+If you use CloneDetective in your study, please kindly cite our preprint on [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.11.19.567755v1).
 
 ## Installation
 
